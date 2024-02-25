@@ -1,5 +1,8 @@
+body{ 
+    background-color: lightslategrey;
+}
 .cabecalho{
-    background-color: rgb(246, 247, 248);
+    background-color: rgb(251, 252, 253);
     display: flex;
     justify-content: center;
 
