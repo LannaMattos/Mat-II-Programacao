@@ -1,5 +1,6 @@
 .cabecalho{
     background-color: rgb(206, 211, 216);
+    display flex: ;
 }
 .cabecalho-imagem{
     width: 20%;
