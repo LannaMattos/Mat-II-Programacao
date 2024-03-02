@@ -8,8 +8,7 @@ body{
     background-color: rgb(251, 252, 253);
     display: flex;
     justify-content:space-around;
-    margin: 30px;
-    padding: 10px;
+    
 
 }
 .cabecalho-imagem{
