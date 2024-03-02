@@ -4,7 +4,7 @@ body{
 .cabecalho{
     background-color: rgb(251, 252, 253);
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
 
 }
 .cabecalho-imagem{
