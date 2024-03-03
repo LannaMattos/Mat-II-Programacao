@@ -18,4 +18,5 @@ body{
 .cabecalho-lista-item {
     display: flex;
     margin: 10px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
 }
