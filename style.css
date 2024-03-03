@@ -7,11 +7,14 @@ body{
 .cabecalho{
     background-color: rgb(251, 252, 253);
     display: flex;
-    justify-content:space-around;
-    
-
+    justify-content:space-around; 
 }
+
 .cabecalho-imagem{
     width: 15%;
 }
 
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+}
