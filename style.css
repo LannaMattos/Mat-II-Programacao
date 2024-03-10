@@ -30,6 +30,12 @@ body{
     font-size: 20px;
     text-align:center;
 }
+
+.colegiotextoum{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: justify;
+}
 .Fachadamachado { 
     width: 40%;
     margin: 10px 10px;
