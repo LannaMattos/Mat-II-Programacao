@@ -43,7 +43,7 @@ body{
 }
 
 .rodape{
-    background-color: rgb(251, 252, 253);
+    background-color: #423e61;
     display: flex;
     justify-content:space-around;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
