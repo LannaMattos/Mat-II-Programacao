@@ -11,7 +11,6 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     text-align:center;
-
 }
 
 .cabecalho-imagem{
@@ -24,4 +23,9 @@ body{
     margin: 10px 5px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
+}
+.Fachadamachado { 
+    width: 15%;
+    margin: 10px 10px;
+
 }
