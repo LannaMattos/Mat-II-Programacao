@@ -25,6 +25,7 @@ body{
     font-size: 12px;
 }
 .colegio{
+    background-image:linear-gradient(#423E61 ,#4befe9 );
     justify-content:space-around;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
