@@ -24,6 +24,11 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
 }
+.colégio title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align:center;
+}
 .Fachadamachado { 
     width: 30%;
     margin: 10px 10px;
