@@ -57,5 +57,9 @@ body{
 }
 
 .icones-informação-div{
- text-justify:justify; 
+    display: flex;
+    justify-content:space-around;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align:center;
 }
