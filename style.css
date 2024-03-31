@@ -57,5 +57,5 @@ body{
 }
 
 .icones-informação-div{
- text-justify ;
+ text-justify:center; 
 }
